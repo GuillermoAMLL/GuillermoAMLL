@@ -34,7 +34,7 @@ I’m interested in econometrics, development economics, mathematics. I’m curr
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+      
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
