@@ -5,11 +5,7 @@ I’m interested in econometrics, development economics, mathematics. I’m curr
 
 - 🔭 I’m currently working on **regression discontinuity designs in economics**
 
-- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **other proyects**
-
-- 🤝 I’m looking for help with **Machine Learning**
 
 
 ---
