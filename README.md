@@ -1,5 +1,5 @@
 # Guillermo Antonio M.
-I’m interested in econometrics, development economics, mathematics. I’m currently learning Rstudio, Python and ML. All coding projects are built from the ground up, from planning and designing all the way to solving differents problems.</h3>
+I’m interested in econometrics, development economics and mathematics. I’m currently learning Rstudio, Python and ML. All coding projects are built from the ground up, from planning and designing all the way to solving differents problems.</h3>
 
 **`Data Science`**
 
